@@ -1,0 +1,13 @@
+<article>
+1. Sign In
+2. Log in to your account using your credentials
+<form>
+Email <input type="email" name="email" placeholder="Email">
+Password <input type="password" name="password" placeholder="Password">
+<checkbox> <p>Remember me</p>
+<a>Forgot Password</a>
+<input type="submit" value="Sign in">
+<img src="img/google.png"><p>sign in with Google</p>
+<p>Don't have an account? <a>Sign up</a></p>
+</form>
+</article>
